@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&family=Kanit&family=Montserrat:wght@600&family=Poppins&family=Roboto+Slab:wght@200&display=swap');
+
+* {
+    background-color: #BAD063;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.first_box {
+    background-color: white;
+    height: 560px;
+    width: 500px;
+    margin-left: 170px;
+    margin-top: 40px;
+    padding-left: 40px;
+}
+
+.second_box {
+    background-color: #204E3F;
+    height: 560px;
+    width: 500px;
+    margin-top: 40px;
+}
+
+.top_bar {
+    display: flex;
+    flex-direction: row;
+    color: #204E3F;
+    background-color: white;
+    margin-top: 30px;
+}
+
+.first {
+    background-color: #204E3F;
+    width: 20px;
+    height: 60px;
+}
+
+.second {
+    color: #204E3F;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+.top_bar2 {
+    margin-left: 10px;
+    background-color: white;
+    /* margin-top: 8px; */
+}
+
+.tagline {
+    background-color: white;
+    color: #B3B3B3;
+    font-weight: 200;
+}
+
+.part2 {
+    margin-top: 80px;
+    background-color: white;
+}
+
+.part2 span h1 {
+    background-color: white;
+    margin-top: 50px;
+    font-size: 40px;
+    color: #30664D;
+    font-family: 'Red Hat Display', sans-serif;
+    margin-bottom: 0px;
+    margin-bottom: 30px;
+}
+
+.part2_1 {
+    color: #B3B3B3;
+    background-color: white;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.fill {
+    margin-top: 50px;
+    background-color: white;
+}
+
+.fill form {
+    background-color: white;
+}
+
+.fill form input {
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 440px;
+    border-color: #B3B3B3;
+}
+
+.pass {
+    margin-top: 5px;
+}
+
+::placeholder {
+    padding-left: 10px;
+}
+
+.last {
+    background-color: white;
+    margin-top: 10px;
+}
+
+#lab {
+    background-color: white;
+}
+
+.f_pass {
+    background-color: white;
+}
+
+.f_pass b {
+    background-color: white;
+    margin-left: 207px;
+}
+
+.butt {
+    margin-top: 30px;
+    background-color: white;
+}
+
+.first_butt {
+    background-color: #204E3F;
+    margin-left: 60px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+}
+
+.second_butt {
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+}
